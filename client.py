@@ -1,4 +1,5 @@
 import socket
+
 try:
     server_hostname = socket.gethostname()
     server_ip = socket.gethostbyname(server_hostname)

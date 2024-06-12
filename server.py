@@ -1,4 +1,5 @@
 import socket
+
 try:
     s = socket.socket()
     print("socket created")
