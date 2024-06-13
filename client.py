@@ -6,7 +6,8 @@
 
 # Macros
 serverIP = "127.0.0.1"  # Defaulting local IP
-serverPORT = 8080       # Server Port 
+serverPORT = 8080       # Server Port
+
 # Imports
 import socket
 
