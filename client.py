@@ -1,5 +1,6 @@
 ################################################################
 # Author        : Mounika Musugu <mounikamounika30m@gmail.com>
+# Co Author     : Aravind Potluri <aravindswami135@gmail.com>
 # Description   : This TCP based client, connects to TCP server
 #                 to send and recevie Msgs in a loop.
 ################################################################
